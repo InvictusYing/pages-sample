@@ -29,7 +29,7 @@ twitter_username: InvictusYing
 github_username:  InvictusYing
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
